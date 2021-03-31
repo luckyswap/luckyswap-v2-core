@@ -6,8 +6,8 @@ import './libraries/SafeMath.sol';
 contract LuckyswapERC20 is ILuckyswapERC20 {
     using SafeMath for uint;
 
-    string public constant name = 'BSCS LPs';
-    string public constant symbol = 'BSCS-LP';
+    string public constant name = 'LUCKY LPs';
+    string public constant symbol = 'LUCKY-LP';
     uint8 public constant decimals = 18;
     uint  public totalSupply;
     mapping(address => uint) public balanceOf;

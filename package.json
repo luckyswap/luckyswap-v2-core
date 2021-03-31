@@ -1,7 +1,7 @@
 {
   "name": "@luckyswap-v2/core",
   "description": "🎛 Core contracts for the luckyswap protocol",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "homepage": "https://luckyswap.io",
   "repository": {
     "type": "git",
